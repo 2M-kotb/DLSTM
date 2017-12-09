@@ -33,7 +33,7 @@ Second, ARIMA folder contains python code used to evaluate ARIMA model, and this
 | Required Libraries |
  --------------------
 
- The following libraries are needed to run the python codes:
+ The following libraries are needed to run the python codes: (python 3)
 
 1- pandas (0.19.2)
 
@@ -90,7 +90,7 @@ second, the remaining three parameters, go to "run" method and set them up:
 
  ---> look_back: is the length parameter
 
- ---> n_epoch: is the no, of epochs
+ ---> n_epoch: is the no. of epochs
 
  ---> neurons: is the no. of hidden units in each layer, it is a list [ hidden_1, hidden_2,....]
 
